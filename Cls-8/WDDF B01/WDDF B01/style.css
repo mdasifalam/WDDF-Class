@@ -1,0 +1,76 @@
+.hero-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+    background-image: url(/src/img/background/desktop-with-glasses-diary-scissors-side.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.hero-content{
+    width: 50%;
+}
+
+.text-color-ashiqurzamman{
+    color: blueviolet;
+}
+.profile-img{
+    width: 250px;
+}
+.social-icon{
+    width: 50px;
+}
+.btn-design{
+    font-weight: bold;
+    border-radius: 15px;
+    border-width: 0;
+    height: 40px;
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 15px;
+    
+}
+.about-profession{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 100px;
+    background-color: aqua;
+    border-radius: 100px 0px;
+
+}
+.profession-content{
+    width: 50%;
+}
+.profession-content img{
+    margin-left: 50px;
+}
+.profession-section{
+    padding: 100px;
+}
+.service-div{
+    display: flex;
+    gap: 40px;
+    padding: 30px 100px;
+}
+.service-div div{
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 30px;
+    padding: 50px 30px;
+    
+}
+.service-div div img{
+    width: 50px;
+}
+#section-id{
+    text-align: center;
+}
+#section-id h1{
+    font-size: 50px;
+    color: blue;
+}
+.section-head-para{
+    padding: 0px 200px;
+}

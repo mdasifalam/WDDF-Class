@@ -1,0 +1,44 @@
+.About-Me{
+    display: flex;
+    background-image: url(src/img/background/desktop-with-glasses-diary-scissors-side.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10%;  
+    margin: 10px;
+}
+
+.About-Me button{
+    background-color: rgb(121, 5, 253);
+}
+
+.About-Me button:hover{
+   background-color:rgb(14, 245, 210);
+}
+
+h1 span{
+    color: rgb(7, 11, 248);
+ }
+
+.About-Profession{
+    display: flex;
+    background-color: rgb(130, 142, 143);
+    border-radius: 100px 0px ;
+    align-items: center;
+    margin: 100px 150px;
+    justify-content: space-around;
+    padding: 200px;
+    
+    
+}
+
+.About-Profession button{
+    color: rgb(140, 255, 0);
+    background-color: rgb(255, 200, 47);
+    
+}
+
+.About-Profession button:hover{
+    color: rgb(0, 166, 255);
+}

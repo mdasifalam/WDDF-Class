@@ -1,0 +1,152 @@
+.Top-Hero-Section{
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: space-between;     */
+    background-color: #FFF8F3;
+    background-image: url(src/img/background-AboutUs.png);
+}
+
+.Top-Hero-Nav-Bar-Demo{
+    display: flex;
+}
+
+.Top-Hero-Nav-Bar-Demo h2{
+    padding-left: 20px;
+    padding-right: 800px;
+}
+
+.Top-Hero-Nav-Bar-Demo button{
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: #FD6E0A;
+}
+
+.Top-Hero-Nav-Bar-Demo h2{
+    padding-left: 80px;
+}
+
+.Top-Hero-Nav-Bar-Demo a{
+    padding: 10px 20px;
+}
+
+.Top-Hero-Asif-h2-span{
+    color: #FD6E0A;
+}
+
+.Top-Hero-developer-img{
+    width: 80px;
+    /* height: 136px; */
+}
+
+.Top-Hero-DisAndImg div img{
+    width: 510px;
+}
+
+.Top-Hero-DisAndImg div div button{
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: #FD6E0A;
+}
+
+.Top-Hero-DisAndImg{
+    display: flex;
+}
+
+.Top-Hero-Discription{
+    padding-left: 200px;
+}
+
+.About-Me-Section{
+    margin: 100px 150px;
+    padding: 100px;
+    background-color: #FFF8F3;
+    text-align: center;
+}
+
+.About-Me-Section div{
+    display: flex;
+    padding-left: 250px;
+}
+
+.About-Me-Section div p{
+    padding: 0 10px;
+}
+
+.About-Me-Section div p span{
+    font-weight: bold;
+}
+
+.What-I-Do-Section{
+    margin: 100px 150px;
+    padding: 0 100px;
+    text-align: center;
+}
+
+.What-I-Do-div{
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.What-I-Do-div div{
+    padding: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);   
+}
+
+.Resume-Section{
+    margin: 100px 150px;
+    padding: 0 100px;
+    text-align: center;
+}
+
+.Resume-Section button{
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: #FD6E0A;
+}
+
+.Resume-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Resume-div-2{
+    text-align: left;
+}
+
+.Resume-p{
+    font-size: medium;
+}
+
+.Resume-div-2 div{
+    padding-left: 10px;
+}
+
+.Footer-Section{
+    margin: 100px 150px;
+    padding: 100px;
+    background-color: #FFF8F3;
+    text-align: center;
+}
+
+.Footer-Section button{
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: #FD6E0A;
+}
+
+.Footer-div{
+    display: flex;
+    text-align: left;
+    padding-right: 100px;
+}
+
+.Footer-Input{
+    margin-bottom: 5px;
+}
+

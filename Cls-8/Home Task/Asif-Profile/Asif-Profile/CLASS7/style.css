@@ -1,0 +1,22 @@
+.containar{
+    background-image: url(src/batch9-portfolio-resources-main/images/developer.png);
+    background-repeat: no-repeat;
+
+}
+
+section{
+    display: flex;
+}
+.imagebacground{
+    background-image: url(src/batch9-portfolio-resources-main/images/header_bg.png);
+}
+
+button{
+    color: blue;
+    border-radius: 20px;
+
+}
+
+button:hover{
+   background-color: aqua;
+}
